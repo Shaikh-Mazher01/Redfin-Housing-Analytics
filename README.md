@@ -15,9 +15,9 @@ An automated data engineering pipeline designed to harvest, clean, and analyze s
 * **Analytical Insights:** Cleans and structure the scraped logs into a Pandas DataFrame to visualize regional property density and price-per-square-foot metrics.
 
 ## 🚀 Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/redfin-scraper.git`
+1. Clone the repository: `git clone https://github.com/yourusername/Redfin-Housing-Analytics.git`
 2. Install dependencies: `pip install curl_cffi beautifulsoup4 pandas matplotlib seaborn`
-3. Run the engine: `python scraper.py`
+3. Run the engine: `Redfin_Scrapping.ipynb`
 
 ## 📊 Sample Insights
 * Successfully extracted and parsed hundreds of live property data points without triggering IP bans.
